@@ -7,7 +7,7 @@ layout: default
 
 <div class="books nu">
   <div>
-    <a href="/read/test/2024/8/28/helloworld.html" title="#10">Bad Sex</a>
+    <a href="/read/book/2024/8/28/helloworld.html" title="#10">Bad Sex</a>
  </div>
  <div>Stephen King</div>
     <time>2024-08-28</time>

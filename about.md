@@ -18,24 +18,3 @@ Inspiration from macwright.
     <source src="/images/music/devarrow-the-great-divide.mp3">
 </audio>
 ---
-<div class="pad2y limiter content">
-  <a href="/read/" class="front-page-title">Rolling ⇢</a>
-  <div class="books nu">
-      <div>
-         <a href="/2024/08/18/manywhere">Manywhere</a>
-     </div>
-     <div>Morgan Thomas</div>
-     <time>2024-08-18</time>
-     <div>
-          <div class="star" style="width:39px"></div>
-     </div>
-     <div>
-          <a href="/2024/08/11/doppelganger">Doppelganger</a>
-     </div>
-     <div>Naomi Klein</div>
-     <time>2024-08-11</time>
-     <div>
-          <div class="star" style="width:26px"></div>
-     </div>
-  </div>
-</div>
